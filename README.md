@@ -6,7 +6,7 @@ An interactive algorithm visualization platform designed to help students and pr
 AlgoViz is an interactive algorithm visualization edtech platform for students and professionals. It helps users learn and understand fundamental programming algorithms through step-by-step animated visualizations. Target improvement in learning efficiency: 60%.
 
 ## Features
-- 8 algorithms across Sorting, Searching, and Graph categories
+- algorithms across Sorting, Searching, and Graph categories
 - Interactive step-by-step visualizations with animated bar charts and graph nodes
 - Pseudocode panel with current line highlighted as algorithm executes
 - Play/Pause/Step Forward/Step Back controls with speed slider
@@ -15,9 +15,47 @@ AlgoViz is an interactive algorithm visualization edtech platform for students a
 - Dark mode professional UI
 
 ## Algorithms Included
-- **Sorting**: Bubble Sort, Merge Sort, Quick Sort, Insertion Sort
-- **Searching**: Binary Search, Linear Search
-- **Graph**: BFS (Breadth-First Search), DFS (Depth-First Search)
+ **1. Sorting Algorithms**
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+
+ **2. Searching Algorithms**
+- Linear Search
+- Binary Search
+
+
+ **3. Sliding Window Techniques**
+- Fixed Window Sum
+- Maximum Subarray Sum (K size)
+- Longest Substring Without Repeating Characters
+
+ **4. Two Pointer Techniques**
+- Pair Sum (Two Sum Sorted)
+- Remove Duplicates from Array
+- Container With Most Water
+
+ **5. Recursion & Divide and Conquer**
+- Merge Sort
+- Quick Sort
+- Binary Search (recursive)
+
+ **6. Cipher / Cryptographic Algorithms**
+- Caesar Cipher
+- Vigenère Cipher
+- XOR Cipher
+- Substitution Cipher
+- Rail Fence Cipher
+- Playfair Cipher (optional advanced)
+
+ **7. Hashing Concepts**
+- Hash Map (Frequency Count)
+- String Hashing Basics
+- Collision Handling (conceptual)
+
 
 # Workspace
 
