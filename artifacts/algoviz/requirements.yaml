@@ -1,0 +1,14 @@
+packages:
+  "framer-motion": "For smooth, layout-based animations of sorting bars and graph nodes"
+  "clsx": "For conditional class merging"
+  "tailwind-merge": "For conditional class merging"
+
+images:
+  - path: "artifacts/algoviz/public/images/hero-abstract.png"
+    description: "A dark, sleek, tech-educational abstract background featuring glowing geometric cyan and purple nodes connected by subtle light trails, representing algorithms and data structures."
+    aspect_ratio: "16:9"
+
+notes:
+  - The application relies heavily on frontend-based generators for algorithm visualization.
+  - API endpoints are stubbed using @workspace/api-client-react, with robust fallbacks in the UI hooks if the server is unseeded or missing.
+  - Framer Motion is used for layout animations (e.g., swapping bars in sorting).
